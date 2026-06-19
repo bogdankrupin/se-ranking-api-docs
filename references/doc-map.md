@@ -26,8 +26,6 @@ The docs are split into three top-level areas:
 
 | Topic | URL |
 |---|---|
-| SEO API | https://seranking.com/api.html |
-| stub | https://seranking.com/api.html |
 | Introduction | https://seranking.com/api.html |
 
 ### how-to-get-api
