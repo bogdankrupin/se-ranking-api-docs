@@ -30,5 +30,5 @@ a verbatim citation to the exact official documentation section.
 - `.github/workflows/refresh-doc-map.yml` — GitHub Action that refreshes the map weekly
   (and on demand) and commits any changes.
 
-[Unreleased]: https://github.com/bogdankrupin/se-ranking-api-docs/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/bogdankrupin/se-ranking-api-docs/releases/tag/v1.0.0
+[Unreleased]: https://github.com/bogdankrupin/ask-seranking-api/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/bogdankrupin/ask-seranking-api/releases/tag/v1.0.0
