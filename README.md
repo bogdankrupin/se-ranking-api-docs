@@ -1,4 +1,4 @@
-# se-ranking-api-docs — Claude Skill
+# ask-seranking-api — Claude Skill
 
 A Claude Agent Skill that answers questions about the **SE Ranking API** (Data API and
 Project API) and the **SE Ranking MCP server**, and grounds every answer in the official
@@ -25,7 +25,7 @@ self-heals: if a topic is missing or a URL 404s, the skill falls back to the liv
 ## Layout
 
 ```
-se-ranking-api-docs/
+ask-seranking-api/
 ├── SKILL.md                       # behavior: answer-and-cite workflow
 ├── references/
 │   └── doc-map.md                 # citation index (auto-block + curated router)
