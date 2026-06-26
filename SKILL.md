@@ -1,5 +1,5 @@
 ---
-name: se-ranking-api-docs
+name: ask-seranking-api
 description: >-
   Answer any question about the SE Ranking API (Data API and Project API) and the
   SE Ranking MCP server, and ground every answer in the official documentation with a
