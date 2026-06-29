@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-06-19. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-06-29. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -66,7 +66,6 @@ The docs are split into three top-level areas:
 
 | Topic | URL |
 |---|---|
-| Set up MCP Server | https://seranking.com/api/integrations/mcp/ |
 | Connect to n8n | https://seranking.com/api/integrations/n8n/ |
 | Connect to Data Studio | https://seranking.com/api/integrations/data-studio/ |
 | Connect to Make | https://seranking.com/api/integrations/make-com/ |
